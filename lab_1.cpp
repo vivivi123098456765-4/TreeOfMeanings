@@ -21,7 +21,7 @@ public:
 
 };
 
-int main() {
+int main_old() {
 
 	Node* root = new Node("ROOT");
 
