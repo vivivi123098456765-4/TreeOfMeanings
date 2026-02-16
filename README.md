@@ -18,3 +18,8 @@ The goal of this project is to create an interactive tool that transforms raw te
 - Developed a recursive algorithm to visualize the tree hierarchy in the console.
 - Applied principles from **Chapter 12.1 (Tree Walk)**. Implemented Depth-First Search (DFS) logic.
 - Mastered recursion depth (the `level` parameter) to create visual indentation and understood recursive base cases.
+
+### Lab 3: Recursive Search Algorithm
+- **Activity:** Implemented a recursive search function `findNode` to locate nodes by their string content.
+- **Concepts:** Adapted the `TREE-SEARCH` algorithm from **Cormen (Chapter 12.2)** for N-ary trees.
+- **Key Learnings:** Mastered pointer propagation in recursion and defensive programming with `nullptr`. Successfully handled Git synchronization between local environments.
