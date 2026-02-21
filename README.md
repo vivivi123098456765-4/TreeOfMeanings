@@ -23,3 +23,8 @@ The goal of this project is to create an interactive tool that transforms raw te
 - **Activity:** Implemented a recursive search function `findNode` to locate nodes by their string content.
 - **Concepts:** Adapted the `TREE-SEARCH` algorithm from **Cormen (Chapter 12.2)** for N-ary trees.
 - **Key Learnings:** Mastered pointer propagation in recursion and defensive programming with `nullptr`. Successfully handled Git synchronization between local environments.
+
+### Lab 4: Interactive Engine Core (CLI)
+- **Activity:** Developed a command-line interface to build "Morphs" (tree structures) dynamically during runtime.
+- **Concepts:** Integrated recursive search (`findNode`) with dynamic insertion (`addChild`) into a controlled `while(true)` loop.
+- **Key Learnings:** Learned how to link independent algorithms into a unified user workflow. Managed pointer-based data modification through user input.
