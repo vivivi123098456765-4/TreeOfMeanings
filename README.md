@@ -28,3 +28,13 @@ The goal of this project is to create an interactive tool that transforms raw te
 - **Activity:** Developed a command-line interface to build "Morphs" (tree structures) dynamically during runtime.
 - **Concepts:** Integrated recursive search (`findNode`) with dynamic insertion (`addChild`) into a controlled `while(true)` loop.
 - **Key Learnings:** Learned how to link independent algorithms into a unified user workflow. Managed pointer-based data modification through user input.
+
+### Lab 5: Graphics Engine Integration & Experiments
+- **Activity:** Environment setup and Raylib library integration via NuGet.
+- **Experiments:** Developed "Pong" and "Snake" clones to master the Game Loop, 2D coordinates, and real-time input handling.
+- **Key Learnings:** Understood the transition from static CLI logic to high-frequency frame rendering (60 FPS).
+
+### Lab 6: Fractal Tree Visualization
+- **Activity:** Transitioned from console to GUI using Raylib. Implemented a recursive drawing algorithm.
+- **Concepts:** Applied trigonometry and recursion to transform abstract data into visual structures.
+- **Key Learnings:** Integrated external C graphics libraries with C++ STL (strings/vectors). Mastered the coordinate system and the render loop.
